@@ -5,7 +5,7 @@
 - Em busca de oportunidades
 
 <div>
-  <a href="https://beacons.ai/Ballgor">
+  <a href="https://beacons.ai/Italobgg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ballgor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ballgor&layout=compact&langs_count=16&theme=dracula"/>
 </div>
