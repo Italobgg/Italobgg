@@ -1,7 +1,7 @@
 ## Olá eu sou o Italo Bartolomeu
 
 - Formado em Analise e Desenvolvimento de Sistemas
-- Conhecimentos em Front e Back-end
+- Desenvolvedor Web
 - Em busca de oportunidades
 
 <div style="display: inline_block"><br>
