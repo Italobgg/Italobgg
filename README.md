@@ -1,19 +1,29 @@
 ## 👋 Olá! Eu sou o Ítalo Bartolomeu  
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia, design e soluções que melhoram a experiência do usuário.  
-Atualmente estou me especializando como **Desenvolvedor Front-End**, com foco em **React, TypeScript e Next.js**, buscando sempre escrever código limpo, performático e escalável.  
+💼 Desenvolvedor Front-End Jr | React | TypeScript | APIs | PCD  
 
-💻 **O que estou fazendo atualmente:**  
-- Desenvolvendo projetos próprios para aprimorar minhas habilidades em front-end  
-- Aprofundando meus estudos sobre boas práticas, arquitetura de componentes e testes  
-- Aprendendo mais sobre UX/UI e como aplicar esses conceitos no desenvolvimento  
+Sou desenvolvedor Front-End com formação em **Análise e Desenvolvimento de Sistemas**, focado na criação de interfaces modernas, responsivas e bem estruturadas utilizando **React, TypeScript e Next.js**.  
 
-🎯 **Objetivo:**  
-Crescer profissionalmente como desenvolvedor front-end, contribuindo para produtos digitais com impacto real e integrando times de tecnologia como o **Magalu Labs**.
+Tenho experiência no desenvolvimento de aplicações com consumo de APIs, componentização e organização de projetos escaláveis, sempre buscando aplicar boas práticas de código, performance e usabilidade.  
 
 ---
 
-### 🧠 Tecnologias e Ferramentas
+### 🚀 O que estou fazendo atualmente  
+
+- Desenvolvendo projetos práticos com foco em aplicações reais  
+- Aplicando boas práticas como componentização, tipagem forte e organização de código  
+- Estudando testes para melhoria de qualidade em aplicações front-end  
+- Evoluindo conhecimentos em UX/UI para criar interfaces mais intuitivas  
+
+---
+
+### 🎯 Objetivo  
+
+Atuar como Desenvolvedor Front-End, contribuindo com a construção de produtos digitais de qualidade, colaborando em equipe e evoluindo constantemente minhas habilidades técnicas.  
+
+---
+
+### 🧠 Tecnologias e Ferramentas  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Italo-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -27,7 +37,7 @@ Crescer profissionalmente como desenvolvedor front-end, contribuindo para produt
 
 ---
 
-### 📫 Conecte-se comigo
+### 📫 Contato  
 
 <div>
   <a href="https://www.linkedin.com/in/italobgg/" target="_blank">
@@ -40,4 +50,4 @@ Crescer profissionalmente como desenvolvedor front-end, contribuindo para produt
 
 ---
 
-⭐ *“Transformando ideias em interfaces funcionais e acessíveis, com código e criatividade.”*
+⭐ *“Construindo interfaces eficientes, acessíveis e com foco na experiência do usuário.”*
