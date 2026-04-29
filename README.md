@@ -49,30 +49,6 @@ Tenho um olhar diferenciado para qualidade: entendo o produto tanto pelo lado de
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📂 Projetos em Destaque
-
-### 🧪 [qa-portfolio — Automação E2E com Playwright](https:github.com/Italobgg/automation-tests-playwright)
-
-Projeto de automação de testes aplicando **Page Object Model (POM)**, com cobertura de login, carrinho, checkout e ordenação no SauceDemo. Pipeline CI/CD configurado com GitHub Actions.
-
-**Stack:** Playwright · TypeScript · GitHub Actions · POM
-
----
-
-### 💻 Em breve — Projeto Front-End com testes integrados
-
-Aplicação React/Next.js com testes E2E e de componentes integrados, demonstrando visão full-cycle de qualidade.
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Italobgg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italobgg&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
 ## 🤝 Vamos conversar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italobgg/)
