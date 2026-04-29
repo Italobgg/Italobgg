@@ -51,7 +51,7 @@ Tenho um olhar diferenciado para qualidade: entendo o produto tanto pelo lado de
 
 ## 📂 Projetos em Destaque
 
-### 🧪 [qa-portfolio — Automação E2E com Playwright]([https://github.com/Italobgg/qa-portfolio](https://github.com/Italobgg/automation-tests-playwright))
+### 🧪 [qa-portfolio — Automação E2E com Playwright](https:github.com/Italobgg/automation-tests-playwright)
 
 Projeto de automação de testes aplicando **Page Object Model (POM)**, com cobertura de login, carrinho, checkout e ordenação no SauceDemo. Pipeline CI/CD configurado com GitHub Actions.
 
