@@ -11,16 +11,6 @@
 Tenho um olhar diferenciado para qualidade: entendo o produto tanto pelo lado de quem **constrói** quanto de quem **quebra** — e isso me torna um QA mais completo desde o início da carreira.
 
 > ♿ **Pessoa com Deficiência (PcD) — CID G71 | Distrofia Facio Escapulo Umeral**
-> Disponível para vagas CLT/PJ, presencial em [sua cidade] ou remoto.
-
-## 🎯 Foco atual
-
-```txt
-🔍 Buscando vaga como:  QA Engineer Jr | QA Manual | Automação de Testes
-📍 Disponibilidade:     Imediata
-🏠 Modalidade:          Remoto (preferencial) ou Híbrido
-♿ Cota PcD:            Sim — disponível para programas de inclusão
-```
 
 ## 🛠️ Stack Técnica
 
