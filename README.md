@@ -42,6 +42,7 @@ Tenho um olhar diferenciado para qualidade: entendo o produto tanto pelo lado de
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Italobgg" />
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Italobgg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italobgg&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
